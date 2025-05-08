@@ -16,7 +16,7 @@
     --sky: #89dceb;
     --lavender: #c9cbff;
     --rosewater: #f5e0dc;
-    --font: monospace; /*"FiraCode Nerd Font Mono";*/
+    --font: "JetBrainsMono Nerd Font";
 
     /* vimium theme uses colors: flamingo, peach, rosewater, green, blue, lavender */
     --tridactyl-fg: var(--fg);
